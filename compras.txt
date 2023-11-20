@@ -1,0 +1,4 @@
+Cliente: sergio, Productos: [{'nombre': 'Calcetines', 'stock': 8, 'precio': 1.99}, {'nombre': 'Pijama', 'stock': 6, 'precio': 22.95}], Total: 30.1774, Código de seguimiento: 1
+Cliente: iñigo, Productos: [{'nombre': 'Gel', 'stock': 9, 'precio': 2.99}, {'nombre': 'Champú', 'stock': 5, 'precio': 2.5}, {'nombre': 'Pijama', 'stock': 5, 'precio': 22.95}], Total: 28.439999999999998, Código de seguimiento: 2
+Cliente: gaita, Productos: [{'nombre': 'Gel', 'stock': 9, 'precio': 2.99}, {'nombre': 'Pantalón', 'stock': 4, 'precio': 19.99}], Total: 22.979999999999997, Código de seguimiento: 3
+Cliente: mario, Productos: [], Total: 0, Código de seguimiento: 5
